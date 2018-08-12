@@ -12,6 +12,7 @@ This project includes followed files:
 
 
 (3) building a search app to find content in these pdf files
+
 (4) extract specific information from these converted pdf files
 
 
@@ -19,4 +20,5 @@ This project includes followed files:
 
 
 (5) export these information into json file
+
 (6) manage json file using mangoDB
