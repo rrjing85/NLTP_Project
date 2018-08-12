@@ -1,7 +1,10 @@
 # NLTP_Project
 for biohippo and sufi
+
 This project includes followed files:
+
 (1) code for how to scraping a pdf and big amount of pdfs for websites
+
 (2) convert pdf file into text file
 
 
